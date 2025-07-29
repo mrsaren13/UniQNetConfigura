@@ -1,0 +1,3 @@
+- Minor bug fixes and performance improvements
+- UI Improved
+- Auto Updater Intregated
