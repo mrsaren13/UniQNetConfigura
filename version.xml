@@ -2,7 +2,7 @@
 <item>
   <version>2.0.7</version>
   <url>https://github.com/mrsaren13/UniQNetConfigura/raw/refs/heads/main/UniQNet_Configura_Setup.exe</url>
-  <changelog>https://github.com/mrsaren13/UniQNetConfigura/blob/main/CHANGELOG.md</changelog>
+  <changelog>hhttps://raw.githubusercontent.com/mrsaren13/UniQNetConfigura/main/changelog.txt</changelog>
   <mandatory>false</mandatory>
   <checksum algorithm="SHA256">33966ac2ac8e35d5965b39ca74405b2b4ab6c1b5051086a134e5bfb0d809322b</checksum>
 </item>
