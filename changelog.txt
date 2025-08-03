@@ -1,5 +1,5 @@
 Version 2.0.8
-===========
+=============
 
 • Minor bug fixes and performance improvements
 • UI improvements
@@ -8,6 +8,7 @@ Version 2.0.8
 • Updated application suppots
 
 Previous Updates
-===========
+================
 • Initial release of UniQNet Configura
+
 • Basic network configuration features
