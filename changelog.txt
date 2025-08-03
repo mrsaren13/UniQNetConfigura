@@ -1,10 +1,11 @@
-Version 2.0.7
+Version 2.0.8
 ===========
+
 • Minor bug fixes and performance improvements
 • UI improvements
 • Auto Updater integrated
 • Enhanced error handling
-• Updated application branding
+• Updated application suppots
 
 Previous Updates
 ===========
